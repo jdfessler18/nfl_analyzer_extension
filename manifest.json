@@ -1,0 +1,25 @@
+{
+    "name": "Fantasy Analyzer",
+    "description": "Analyze ESPN Fantasy Football Leagues!",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+      },
+      "permissions": [
+        "scripting",
+        "storage",
+        "activeTab",
+        "tabs"
+        ],
+       "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "1": "/images/icon.png"
+        }
+       },
+       "icons": {
+        "1": "/images/icon.png"
+       }
+       
+    }
