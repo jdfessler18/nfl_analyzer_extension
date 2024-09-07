@@ -1,17 +1,12 @@
 ## Fantasy Football Analyzer Chrome Extension by Jacob Fessler**
-
-
-
-
-
-###Dependencies:
+### Dependencies:
 
 This project makes use of Bootstrap and its dependencies jQuery and Popper.
 Bootstrap classes and elements were used as the building blocks for the appearance of
 the chrome extension, including JS aspects of these elements.
 
 
-###Functionality:
+### Functionality:
 
 -Reading league data from ESPN league HTML
 
@@ -24,7 +19,7 @@ the chrome extension, including JS aspects of these elements.
 -Creating a leaderboard to show leading teams
 
 
-###Files:
+### Files:
 
 -loadHome - Dynamically creates elements for extension home page, including leaderboard
 
