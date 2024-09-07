@@ -1,4 +1,4 @@
-## Fantasy Football Analyzer Chrome Extension by Jacob Fessler**
+## Fantasy Football Analyzer Chrome Extension by Jacob Fessler
 ### Dependencies:
 
 This project makes use of Bootstrap and its dependencies jQuery and Popper.
