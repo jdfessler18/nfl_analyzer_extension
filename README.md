@@ -1,4 +1,6 @@
 ## Fantasy Football Analyzer Chrome Extension by Jacob Fessler
+A Chrome extension to load, display, and analyze rosters from any ESPN Fantasy Football league. 
+
 ### Dependencies:
 
 This project makes use of Bootstrap and its dependencies jQuery and Popper.
